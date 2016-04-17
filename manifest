@@ -1,0 +1,22 @@
+C add\ssome\swrapper\scode\si\sfound\son\sthe\ssqlite\susers\slist
+D 5695-09-24T15:34:13
+F inc/.astylerc 5f29f705cbbfacc12122a34f01cd274bfa8c8518
+F inc/SqliteDatabase.h bf0610705fde160a57badd68d4d08aa098cc7fec
+F inc/SqliteException.h ad5a4d35a243113da98b34372e31e2b54c00c74e
+F inc/SqliteStatement.h b0ada8919dae9b588b095a16d2ded925a37ce4a1
+F inc/StdAfx.h d1155b021f339eda95b345a3f3cf28a81e7f8b66
+F inc/TargetVersion.h c47c7726ce641adb405ccdb1b9fcb865ceaa4819
+F inc/sqlite3.h 9456fbac96314cc640260f4e1aa07e58107c7aca
+F inc/sqlite3ext.h b0e296e891f1134e3e12bf91108c17ad3a468c73
+F rpw.sqlite.sln c9f39ca39b62830e3f1c028d2222efd53f44966e
+F rpw.sqlite.vcproj fd02d479867c62ee7622dfed142f9d682eec4a07
+F src/.astylerc 5f29f705cbbfacc12122a34f01cd274bfa8c8518
+F src/SqliteDatabase.cpp 2525199eed267dafd0e5814d2a3c01ad4a3851f1
+F src/SqliteStatement.cpp b83f3f8574a2ad1bbf2dbe4952714ca692edaffe
+F src/StdAfx.cpp c283e6947433417443127fce55d5df0611956101
+F src/sqlite3.c 7e4d086a9663f6a31c02483a9411b47f8d52c450
+F src/sqlitewrapper.cpp e595d47ddc9f1291e3736f0c9847ecaaad1f4dd2
+P 123ba5968ff0f7a2c7a01b08de386a6d2fd50300
+R dfec8c7fc71c7b7b30058f1cba952009
+U rwilso20
+Z 3471f2c9f7d10d7d0ab1044f9686d1eb
